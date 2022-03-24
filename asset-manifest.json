@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Website-Portfolio/static/css/main.c2227bb8.css",
+    "main.js": "/Website-Portfolio/static/js/main.4b108c95.js",
+    "static/js/787.4f96222d.chunk.js": "/Website-Portfolio/static/js/787.4f96222d.chunk.js",
+    "static/media/me-about.jpg": "/Website-Portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio_harvard4.1.png": "/Website-Portfolio/static/media/portfolio_harvard4.1.0c4d6d28fec13586d878.png",
+    "static/media/CV-Pedro Torres.pdf": "/Website-Portfolio/static/media/CV-Pedro Torres.5207e30cef66bf6af62b.pdf",
+    "static/media/portfolio_wordle.jpeg": "/Website-Portfolio/static/media/portfolio_wordle.9b9248d7fcc8f565d5f7.jpeg",
+    "index.html": "/Website-Portfolio/index.html",
+    "main.c2227bb8.css.map": "/Website-Portfolio/static/css/main.c2227bb8.css.map",
+    "main.4b108c95.js.map": "/Website-Portfolio/static/js/main.4b108c95.js.map",
+    "787.4f96222d.chunk.js.map": "/Website-Portfolio/static/js/787.4f96222d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2227bb8.css",
+    "static/js/main.4b108c95.js"
+  ]
+}
