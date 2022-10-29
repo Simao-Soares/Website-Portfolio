@@ -1,4 +1,4 @@
 export const TypewriterStrings = [
-  'Full Stack Developer',
-  'Software Engineer'
+  'Software Engineer',
+  'Test Automation Engineer'
 ];

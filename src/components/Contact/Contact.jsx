@@ -14,9 +14,9 @@ export const Contact = () => {
           <article className='contact__option contact__option-onDesktop'>
             <MdOutlineEmail className='contact__option-icon' />
               <h4>Email</h4>
-              <h5>pedro.ts.torres@gmail.com</h5>
+              <h6>simao.pedrosoares@gmail.com</h6>
               <a
-                href='mailto:pedro.ts.torres@gmail.com'
+                href='mailto:simao.pedrosoares@gmail.com'
                 target='_blank'
                 rel='noreferrer'
               >
@@ -26,9 +26,9 @@ export const Contact = () => {
           <article className='contact__option'>
             <IoLogoWhatsapp className='contact__option-icon' />
               <h4>WhatsApp</h4>
-              <h5>+351 914 666 034</h5>
+              <h5>+351 926 0961 77</h5>
               <a
-                href='https://wa.me/351914666034'
+                href='https://wa.me/351926096177'
                 target='_blank'
                 rel='noreferrer'
               >
